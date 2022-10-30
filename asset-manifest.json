@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mideg-web/static/css/main.bbc617b6.css",
-    "main.js": "/mideg-web/static/js/main.8839513d.js",
+    "main.css": "/mideg-web/static/css/main.9caede4b.css",
+    "main.js": "/mideg-web/static/js/main.3a73f574.js",
     "static/media/techvideo.mp4": "/mideg-web/static/media/techvideo.d28831bc5d9eeb4a9a44.mp4",
     "static/media/contact-banner.jpg": "/mideg-web/static/media/contact-banner.7f542d8b94cf90f1fbb1.jpg",
     "static/media/tech-security.jpg": "/mideg-web/static/media/tech-security.d04a116320269ca18d44.jpg",
     "index.html": "/mideg-web/index.html",
-    "main.bbc617b6.css.map": "/mideg-web/static/css/main.bbc617b6.css.map",
-    "main.8839513d.js.map": "/mideg-web/static/js/main.8839513d.js.map"
+    "main.9caede4b.css.map": "/mideg-web/static/css/main.9caede4b.css.map",
+    "main.3a73f574.js.map": "/mideg-web/static/js/main.3a73f574.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbc617b6.css",
-    "static/js/main.8839513d.js"
+    "static/css/main.9caede4b.css",
+    "static/js/main.3a73f574.js"
   ]
 }
